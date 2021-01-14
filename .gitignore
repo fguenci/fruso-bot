@@ -1,11 +1,22 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
 # Compiled class file
-*.class
+#*.class
 
 # Log file
 *.log
-
-# BlueJ files
-*.ctxt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
