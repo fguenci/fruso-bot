@@ -19,8 +19,8 @@ public class BotConfig {
     public static final String RAE_TOKEN = "<token>";
     public static final String RAE_USER = "raebot";
 
-    public static final String WEBHOOK_TOKEN = "<token>";
-    public static final String WEBHOOK_USER = "webhooksamplebot";
+    public static final String WEBHOOK_TOKEN = "1419083159:AAE1mQJd-J2rdSbeuoblmqgHkccNI0ABs18";
+    public static final String WEBHOOK_USER = "FrusoTimeKeeperBot";
 
     public static final String COMMANDS_TOKEN = "<token>";
     public static final String COMMANDS_USER = "MyCommandsBot";
